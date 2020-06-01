@@ -4,5 +4,5 @@
 2. Запустіть проект, впевніться, що все працює як очікувалось. Продемонстрируйте результат викладачеві.
 
 ## Результат програми
-<img src="https://github.com/ppc-ntu-khpi/gui-lab1-34-TheOdie/blob/master/Shedevr.PNG?raw=true" width="50%"/>
+<img src="https://github.com/ppc-ntu-khpi/gui-lab1-34-TheOdie/blob/master/SWING.PNG?raw=true" width="50%"/>
 
